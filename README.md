@@ -26,19 +26,19 @@ Add these lines to your application.js file inside your assets/javascripts folde
 
 	//= require jquery
 	//= require jquery_ujs
-	`
+	# Add these lines 
 	//= require_vendor
 	//= require foundation.min
-	`
+	# In between these lines
 	//= require turbolinks
 	//= require_tree .
 
 Add these lines to your application.css file inside your assets/stylesheets folder:
 
-	`
+	# Add these lines
 	*= require foundation.min
 	*= require normalize
-	`
+	# Before these lines
 	*= require_tree .
 	*= require_self
 	*/

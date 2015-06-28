@@ -60,5 +60,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 5. Create a new Pull Request
 
 ### Credits
-[ZURB Foundation](http://foundation.zurb.com)
-[Jim Tunnessen](http://chiefdigitalme.com)
+1. [ZURB Foundation](http://foundation.zurb.com)
+2. [Jim Tunnessen](http://chiefdigitalme.com)

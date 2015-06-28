@@ -2,7 +2,7 @@
 
 Welcome to your foundation_front_end! This gem provides all the CSS and javascript assets needed to use ZURB Foundation 5 for your Responsive Web Design (mobile-friendly design). 
 
-If you haven't heard of [ZURB Foundation you can check it out here](https://foundation.zurb.com). This is a great framework with seemingly unlimited responsive templates, and plugins in which you can take advantage.
+If you haven't heard of [ZURB Foundation you can check it out here](http://foundation.zurb.com). This is a great framework with seemingly unlimited responsive templates, and plugins in which you can take advantage.
 
 ## Installation
 
@@ -58,3 +58,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+### Credits
+[ZURB Foundation](http://foundation.zurb.com)
+[Jim Tunnessen](http://chiefdigitalme.com)

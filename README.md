@@ -26,19 +26,19 @@ Add these lines to your application.js file inside your assets/javascripts folde
 
 	//= require jquery
 	//= require jquery_ujs
-	```ruby
+	`
 	//= require_vendor
 	//= require foundation.min
-	```
+	`
 	//= require turbolinks
 	//= require_tree .
 
 Add these lines to your application.css file inside your assets/stylesheets folder:
 
-	```ruby
+	`
 	*= require foundation.min
 	*= require normalize
-	```
+	`
 	*= require_tree .
 	*= require_self
 	*/
